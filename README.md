@@ -1,12 +1,14 @@
-# Multiclass Classification
+# Multiclass Classification using Logistic Regression
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Multiclass_Classification/blob/master/One_vs_K.ipynb) <b>One v/s Rest Classifiers</b>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Multiclass_Classification/blob/master/One_vs_K.ipynb) <b>Using a Set of 10 One-vs-Rest Classifiers</b>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Multiclass_Classification/blob/master/10C2_Binary_Classifiers.ipynb) <b>Binary Classifiers</b>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Multiclass_Classification/blob/master/10C2_Binary_Classifiers.ipynb) <b>Using <sup>10</sup>C<sub>2</sub> Binary Classifiers</b>
 
-### Classifying MNIST Images into 10 classes using Different Mechanisms
+### Classifying MNIST images into 10 classes using Different Mechanisms
 
-- Using a set of ten one-vs-rest classifiers
-- Using 10C2 Binary Classifiers
+| Formulation | Accuracy |
+| ---- | ---- |
+| Set of 10 One-vs-Rest Classifiers | 77.3% |
+| <sup>10</sup>C<sub>2</sub> Binary Classifiers | 90.1% |
 
 ---
